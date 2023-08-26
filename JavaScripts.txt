@@ -1,0 +1,10 @@
+JavaScripts
+
+# Mensagem de erro na janela;
+window.alert('')
+
+# Mostra mensagem e confirmação ou cancelar
+window.confirm('')
+
+# Mostra a mensagem e o input para o usuário digitar
+window.prompt('')
