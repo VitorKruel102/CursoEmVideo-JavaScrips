@@ -1,10 +1,10 @@
 JavaScripts
 
-# Mensagem de erro na janela;
-window.alert('')
+// Cria uma mensagem de Alerta
+window.alert('Minha primeira mensagem.')
 
-# Mostra mensagem e confirmação ou cancelar
-window.confirm('')
+// Dá a opção de OK ou CANCELAR;
+window.confirm('Está gostando de JavaScrips?')
 
-# Mostra a mensagem e o input para o usuário digitar
-window.prompt('')
+// Mostra um INPUT para o usuário digitar;
+window.prompt('Qual o seu nome?')
